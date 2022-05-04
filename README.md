@@ -11,4 +11,4 @@
 
 * Use Chainlink oracle
 
-![screenshot](https://github.com/bhargava-krishna/yield-farming-dapp/blob/master/screen.jpg?raw=true)
+![screenshot](https://github.com/bhargava-krishna/yield-farming-dapp/blob/main/screen.jpg?raw=true)
