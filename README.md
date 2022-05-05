@@ -1,6 +1,6 @@
 # DeFi Yield Farming
 
-This project focuses on developing a DeFi app which implements the concept of yield farming / liquidity mining
+This project focuses on developing a DeFi app which implements the concept of yield farming / liquidity mining in a modular methodology facilitating the addition of new pools of any token in a simple manner.
 
 **Functional specifications**
 
