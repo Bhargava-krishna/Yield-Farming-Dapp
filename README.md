@@ -1,4 +1,9 @@
 
+## Prerequisites
+
+Please install or have installed the following:
+
+- [nodejs and npm](https://nodejs.org/en/download/)
 
 **Functional specifications**
 
