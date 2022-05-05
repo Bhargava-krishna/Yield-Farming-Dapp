@@ -1,5 +1,24 @@
+## How To Install Dependencies
 
-## Prerequisites
+First install required dependencies:
+
+You'll need local ethereum node, I recommend `ganache-cli`. You can install it from npm.
+
+```
+npm install -g ganache-cli
+```
+
+Install truffle:
+
+```
+npm install -g truffle
+```
+
+Then install contract dependencies:  
+
+```
+npm install
+```
 
 Please install or have installed the following:
 
