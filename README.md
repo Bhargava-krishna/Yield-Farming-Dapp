@@ -1,4 +1,4 @@
-## How To Install Dependencies
+## Dependencies
 
 First install required dependencies:
 
